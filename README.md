@@ -13,10 +13,11 @@
 # Passo-a-passo
 
 - Acessar o servidor <code>AWS</code>
-- Criar uma pasta <code>mkdir</code> para clonar o repositório git
-- Iniciar o git na pasta <code>git init</code>
-- Entrar na pasta <code>cd</code> e clonar o repositório <code>git clone</code>
 - Instalar o compilador <code>gcc</code>
+- Criar uma pasta <code>mkdir</code> para clonar o repositório git
+- Entrar na pasta <code>cd</code> e iniciar o git na pasta <code>git init</code>
+- Clonar o repositório <code>git clone</code>
+- Acessar a pasta do repositório clonado<code>cd</code>
 - Compilar o arquivo <code>.c</code> utilizando o gcc <code>gcc -o</code>
 - Executar o arquivo compilado <code>./"nome-do-arquivo"</code>
 
