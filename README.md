@@ -1,7 +1,7 @@
 # Integrantes
 
-- Bruno Lauand Ferrão 32217994
-- Raul Vilhora Cardoso Matias 32267274
+- Bruno Lauand Ferrão - 32217994
+- Raul Vilhora Cardoso Matias - 32267274
 
 # Utilizados
 
@@ -12,16 +12,19 @@
 
 # Passo-a-passo
 
-- Acessar o servidor AWS
-- Criar uma pasta ( **_mkdir_** ) para clonar o repositório git
-- Iniciar o git na pasta ( **_git init_** )
-- Entrar na pasta ( **_cd_** ) e clonar o repositório ( **_git clone_** )
-- Instalar o compilador gcc
-- Compilar o arquivo .c utilizando o gcc ( **_gcc -o_** )
-- Executar o arquivo compilado ( **_./"nome-do-arquivo"_** )
+- Acessar o servidor <code>AWS</code>
+- Criar uma pasta <code>mkdir</code> para clonar o repositório git
+- Iniciar o git na pasta <code>git init</code>
+- Entrar na pasta <code>cd</code> e clonar o repositório <code>git clone</code>
+- Instalar o compilador <code>gcc</code>
+- Compilar o arquivo <code>.c</code> utilizando o gcc <code>gcc -o</code>
+- Executar o arquivo compilado <code>./"nome-do-arquivo"</code>
+
 
 <img src="/Prints/print2.png">
 
+
 # Print da execução
+
 
 <img src="/Prints/print.png">
