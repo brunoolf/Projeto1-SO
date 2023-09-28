@@ -5,10 +5,10 @@
 
 # Utilizados
 
-- Servidor AWS
-- Repositório git
-- Compilador gcc
-- Código .c
+- Servidor <code>AWS</code>
+- Repositório <code>git</code>
+- Compilador <code>gcc</code>
+- Código <code>.c</code>
 
 # Passo-a-passo
 
@@ -22,6 +22,6 @@
 
 <img src="/Prints/print2.png">
 
-# Prints da execução
+# Print da execução
 
 <img src="/Prints/print.png">
